@@ -99,6 +99,7 @@ footer #country {
 footer {
     background-color: #e2e2e29f;
     color: grey;
+    font: 50px;
 }
 
 footer .footer_bottom {
